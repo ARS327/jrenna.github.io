@@ -1,3 +1,3 @@
 # jrenna.github.io
-Portfolio website and a midterm project.
+Attempts were made to make a gallery/ portfolio site.  Please hire me.
 
