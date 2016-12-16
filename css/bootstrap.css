@@ -2596,8 +2596,9 @@ a.badge:focus {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
+  height: 350px;
   color: inherit;
-  background-color: #828282;
+  background: url('../images/jumbotron.gif') no-repeat center center;
 }
 .jumbotron h1,
 .jumbotron .h1 {
